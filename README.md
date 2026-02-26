@@ -1,9 +1,56 @@
-# MonoSandbox
-MonoSandbox is a mod for the virtual reality game Gorilla Tag which introduces a sandbox-based menu inspired by Gary's Mod.
+<h1 align="center">🐒 MonoSandbox</h1>
+<p align="center">
+A Weapons mod for Gorilla Tag
+</p>
 
-## Why use MonoSandbox?
-- A simplistic menu which makes for easy interaction
-- A variety of different items with unique mechanics
-- A polished experience used by hundreds of players
+<p align="center">
+  <a href="https://discord.gg/AMG8EHSS9u">
+    <img src="https://img.shields.io/badge/Join%20the%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-### <i>This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.</i>
+---
+
+## About
+
+MonoSandbox is a weapons mod for Gorilla Tag that lets you mess around with different objects and weapons, tools, and fun mechanics inside the game.
+
+The goal of this project is simple: make Gorilla Tag more experimental and more fun.  
+Spawn things. Test stuff. Break things. Enjoy.
+
+---
+
+## Features
+
+- Simple in-game menu  
+- Spawnable sandbox objects  
+- Interactive tools  
+- Clean computer-style interface  
+- Constant improvements and updates  
+
+More features will be added over time.
+
+---
+
+## Installation
+
+1. Install **BepInEx** (required).  
+2. Download the latest release from the Releases tab.  
+3. Put the `.dll` file inside your `BepInEx/plugins` folder.  
+4. Launch Gorilla Tag.
+
+Thats it.
+
+---
+
+## Disclaimer
+
+This project is not affiliated with or endorsed by Another Axiom or Gorilla Tag.  
+All rights to the original game belong to their respective owners.
+
+---
+
+## Community
+
+If you find bugs, have suggestions, Download SymbolGT, or just want to hang out:
+Join the Discord server above.
