@@ -36,7 +36,7 @@ More features will be added over time.
 
 1. Install **BepInEx** (required).  
 2. Download the latest release from the Releases tab.  
-3. Put the `.dll` file inside your `BepInEx/plugins` folder.  
+3. Put the `MonoSandbox.dll` file inside your `BepInEx/plugins` folder.  
 4. Launch Gorilla Tag.
 
 Thats it.
