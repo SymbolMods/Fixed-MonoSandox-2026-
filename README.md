@@ -25,7 +25,6 @@ Spawn things. Test stuff. Break things. Enjoy.
 - Simple in-game menu  
 - Spawnable sandbox objects  
 - Interactive tools  
-- Clean computer-style interface  
 - Constant improvements and updates  
 
 More features will be added over time.
